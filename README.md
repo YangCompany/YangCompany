@@ -1,5 +1,4 @@
 # YangCompany
-YangCompany
 
 CEO Yang siyoung
 CTO Park Jinha, Lee Sanha
